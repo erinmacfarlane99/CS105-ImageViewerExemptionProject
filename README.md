@@ -3,7 +3,13 @@ Project completed in order to gain exemption from the exam in CS105 - Programmin
 
 Extends upon the ImageViewer (final version) from Chapter 13 of the BlueJ textbook - https://www.bluej.org/objects-first/.
 
-Features added and explanations:
+## How to run the ImageViewer:
+
+1. Clone repository
+2. ```cd ImageViewerFinalExemption```
+3. ```java ImageDriver```
+
+## Features added and explanations:
 - **Reload Image**: this button when pressed will simply reload the image by opening up the original
 version of the image from the file directory. The code is taken from the method ‘openFile’ in the
 original Image Viewer system that opens up the chosen image.
