@@ -7,7 +7,7 @@ Features added and explanations:
 - **Reload Image**: this button when pressed will simply reload the image by opening up the original
 version of the image from the file directory. The code is taken from the method ‘openFile’ in the
 original Image Viewer system that opens up the chosen image.
-- **Disabled menu functions**: as can be seen above I have disabled all menu functions when there
+- **Disabled menu functions**: I have disabled all menu functions when there
 is no image being displayed. I used the ‘setButtonsEnabled’ method in order to do so and set
 them to be greyed out when an image is not available to be altered. For my undo and redo
 buttons I created two separate methods that change the status of each button so that I can can
