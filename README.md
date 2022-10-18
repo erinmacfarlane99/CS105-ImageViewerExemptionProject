@@ -54,7 +54,7 @@ to the sepia tone and loops through each column testing the calculates values an
 RGB values accordingly using if else statements. In order to get this to appear in the Filter dropdown
 menu I added it to the createFilters list.
 
-<img width="457" alt="Screenshot 2022-10-18 at 19 25 26" src="https://user-images.githubusercontent.com/116073553/196513577-53fd035f-7d77-4bfe-ae27-cdf31c5a01ee.png">
+    <img width="457" alt="Screenshot 2022-10-18 at 19 25 26" src="https://user-images.githubusercontent.com/116073553/196513577-53fd035f-7d77-4bfe-ae27-cdf31c5a01ee.png">
 
 - **Scroll Pane**: I have added a JScrollPane that appears when the image being displayed in the
 image panel is too large to fully be seen, this means a user can move about the image to see
@@ -64,7 +64,7 @@ uses the method ‘setPrefferedSize()’ with the parameter ‘null’ to ask th
 for the scroll pane when needed meaning it only appears when the image is too big for the
 image panel.
 
-<img width="400" alt="Screenshot 2022-10-18 at 19 25 43" src="https://user-images.githubusercontent.com/116073553/196513638-acd82e45-a0f0-49ae-b960-985bf2388646.png">
+    <img width="400" alt="Screenshot 2022-10-18 at 19 25 43" src="https://user-images.githubusercontent.com/116073553/196513638-acd82e45-a0f0-49ae-b960-985bf2388646.png">
 
 - **Slideshow**: I have created a new menu in the JFrame called ‘Create Slide show’ that has 3 drop
 down menu items, all of which correspond to 3 different methods. The first menu item is called
